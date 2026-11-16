@@ -7,8 +7,8 @@
 #include <time.h>
 
 // Enter your Wi-Fi credentials and the coordinates of the desired weather location.
-constexpr char wifiSsid[] = "Los Pollos Hermanos";
-constexpr char wifiPassword[] = "RRMMSOE310";
+constexpr char wifiSsid[] = "Wifi";
+constexpr char wifiPassword[] = "Password";
 constexpr char locationName[] = "SG-32, Science Building, MSOE, Milwaukee, WI";
 constexpr char latitude[] = "43.04302803179632";
 constexpr char longitude[] = "-87.90678040825065";
